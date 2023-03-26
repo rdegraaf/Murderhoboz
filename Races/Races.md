@@ -24,6 +24,8 @@ children.
 
 **Life cycle & Reproduction**
 
+Ed. note: inspired by life cycle of salmon and various other aquatic creatures.
+
 Most non-undine have difficulty telling male and female undine apart.  They are broadcast 
 spawners.  Once per year, both males and females produce large amounts of gametes, which they 
 expel together in shallow, flowing water.  Some eggs get fertilized; most do not.  Fertilized eggs 
@@ -81,9 +83,9 @@ not adequate to sustain a hungry, growing hatchling, ignan females tend to live 
 groups where they can support each others' offspring. 
 
 This process puts high metabolic demands on ignan females and frequently causes medical issues. 
-Ignan females correspondingly have notably shorter life expectancies than males and higher dietary 
-requirements.  However, the birth ratio is nearly even.  This would lead to a very skewed gender 
-ratio later in life were it not for the violent or hazardous lifestyles of many male ignans.
+Ignan females correspondingly have notably shorter average life expectancies than males and higher 
+dietary requirements.  However, the birth ratio is nearly even.  This would lead to a very skewed 
+gender ratio later in life were it not for the violent or hazardous lifestyles of many male ignans.
 
 Hatchlings have large, toothy mouths and clawed limbs suitable for tearing their way out of their 
 own eggs and for grasping and biting into ootes.  These traits diminish as hatchlings grow up. 
@@ -104,12 +106,44 @@ servitude or slavery may travel the world looking for fame, wealth, and notoriet
 
 ### Oreads [earth]
 
-Like marsupials, except that the male has the pouch.  Transfer like seahorses.
+**Life cycle & Reproduction**
+
+Ed. note: inspired by life cycle of anglerfish and George+Kuato in the film "Total Recall".
+
+Female oreads are much like other humanoids.  Males are tiny, helpless, barely-sentient things 
+designed solely for mating that permanently bond to a female.  Most female oreads bond to a male 
+once fully grown in their mid to late teens; the male is about three years old at that point and no 
+bigger than a newborn.  The bonding process is takes a couple weeks to complete and is medically 
+hazardous to both parties.  The male embeds itself into the abdomen of the female, leaving only 
+eyes, a mouth, and small arms protruding.  Its digestive system and lower body, never well 
+developed, atrophy almost completely.  Much of its skin morphs into an organ that draws nutrients 
+from the female's blood supply.  The male doesn't need to eat or breathe but maintains rudimentary 
+lungs to allow it to speak in a soft, squeaky voice.  An implanted male has no external ears but 
+can still hear through the female's skin and connections to her skeleton.  A female with an 
+implanted male is almost entirely in control of her own fertility, being able to get pregnant 
+almost at will.
+
+On occasion, the implantation process fails.  This is invariably fatal to the male and frequently 
+to the female as well.  If the male dies for some reason after implantation, the female body will 
+try to expel; this fails about half of the time without medical intervention.  Some other medical 
+conditions can also cause a female to expel an implanted male, with similar results.
+
+**Culture**
+
+Oread culture frequently stigmatizes adult females who lack a bonded male.  Prosthetic fake males 
+are not unheard of.  Oread fashions tend to expose the abdomen so that the male can see and use its 
+arms. 
+
+**Racial abilities**
 
 Radiation-resistant
+Bonus to perception from the male
+Extra pair of (small, weak) arms from the male
 
 
 ### ??? [metal]
+
+Like marsupials, except that the male has the pouch.  Transfer like seahorses.
 
 Heat-resistant
 
@@ -118,10 +152,12 @@ Heat-resistant
 
 **Life cycle & Reproduction**
 
+Ed. note: inspired by life cycle of tunicates and most land plants.
+
 Humanoid dryants are actually children.  In their mature, adult form, dryants are trees.  Mature 
 dryants can live for centuries; they usually retain some trace of a face, though even this fades 
 with age and extremely old dryants are almost indistinguishable from common trees.  Mature dryants 
-are hermaphrodites that occasionally produce huge, beautiful flowers.  If polinated by a 
+are hermaphrodites that occasionally produce huge, beautiful flowers.  If pollinated by a 
 particular species of moth, the flower will grow into a large pod; after about a year, the pod 
 will split and a dryant child will emerge.  Newborn dryant children are about a meter tall. 
 Dryants posess a limited form of ancestral memory: newborns can walk, talk, and feed themselves 
@@ -161,7 +197,7 @@ photosynthesis, even immature dryants gain some benefit from sunshine: a dryant'
 are halved for any day that it spends at least 8 hours in direct sunlight (not wearing clothes, of 
 course).
 
-** Culture**
+**Culture**
 
 Due to the difficulty of distinguishing old dryants from common trees, dryants are very careful 
 about what trees they cut and use wood far less than other races; where possible, they prefer to 
@@ -176,19 +212,35 @@ light as possible.
 
 ### Thanays [void]
 
-Thanays have deep black skin, so much so that their features are difficult to see.  In low light, 
-their eyes tend to reflect red light strongly, making their eyes appear to glow in the dark. 
-These two characteristics often make them look "creepy" to those unaccustomed to them.
+Ed. note: inspired by Vantablack and other nano-engineered light-absorbing materials
+
+Thanays have deep black skin, so much so that their features are difficult to see.  A clean, dry, 
+and naked thanay looks rather like a black void in the shape of a person.  Their most visible 
+characteristics are their white teeth and their eyes which reflect red light.  Under certain 
+lighting conditions, their eyes appear to glow in the dark. These two characteristics often make 
+them look "creepy" to those unaccustomed to them.
 
 Due to their lack of apparent features, non-thanays tend to have difficulty telling thanays 
 apart.  Thanays themselves claim to be colourful and highly distinctive.  This is presumably only 
 apparent under infravision.  They also have unusually good vision under low light.
 
+Since thanays absorb most incident light, they may overheat in direct sunlight.  They can 
+compensate by sweating profusely, though this requires them to drink a lot.  Sun-shading clothing 
+and avoiding work in direct sun are other strategies for managing body temperature.
+
+Thanay skin can be used to make dark camouflage clothing.  Ordinary leather tanning destroys its 
+useful properties, yielding a result little different than ordinary leather that has been dyed 
+black; only certain time-consuming and expensive processes give good results.  Even so, leather 
+lacks the self-healing of living skin so such clothing wears out quickly (again, yielding something 
+similar to black-dyed leather).  However, thanay skin is relatively easy to acquire even through 
+legitimate means: Enalia has a large thanay population who have no compunction about selling the 
+body parts of their dead.  Even better, lack of skin has little impact on a zombie.
+
 **Life cycle & Reproduction**
 
-Thanays are mammals.  They are viviparous and feed their newborns with milk secreted from 
-prominent mammary glands on the chests of females.  Their milk is toxic to most other creatures 
-and is sometimes used as an ingredient in poisons.  Their family relationships are extremely 
+??
+
+Their family relationships are extremely 
 varied, including various combinations of monogamy, polygyny, polyandry, heterosexuality, and 
 homosexuality, but most groupings are formed for life.  Sexual relations outside of marriage are 
 unusual and discouraged.
@@ -205,6 +257,7 @@ on spices and garnishes, most of which are poisonous to other races.
   darkness.  This may be negated by wearing highly visible clothing.
   Poison resistance
   Easy to raise as undead?
+  Body secretions are poisonous to most other creatures
 
 
 ## Other
