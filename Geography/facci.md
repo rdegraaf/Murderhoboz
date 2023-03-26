@@ -6,7 +6,8 @@ It is not an exaggeration to describe Facci as the business capital of the world
 industrialized major state and is dominated by a fantastically wealthy merchant elite.  However, 
 it also has a rigidly controlled society and huge wealth disparity. 
 
-Facci has an out-sized impact on international commerce but see relatively few of its benefits. 
+Facci has an out-sized impact on international commerce but it is an article of faith to Faccians 
+that they are under-rewarded for their contributions. 
 The standardized prices mandated by their government establish a stable going rate for many goods 
 and services in much of world and their exacting coinage standards ensure that their money is 
 accepted nearly by nearly everyone who accepts currency.  Faccian manufactured goods, while not 
@@ -29,8 +30,9 @@ However, they have also been courting various tribal leaders in Kardy and stirri
 against Eosahai; many suspect that if they can catch both Eosahai and Thimeera weak at the same 
 time again, they will not hesitate to make another attempt at conquering Eosahai.
 
-Individuals have no choice in their careers or in where they live; by default, people inherit the 
-careers of their parents and must remain in the district where they were born.  Anyone who wishes 
+The Faccian economy is strictly controlled by its government.  Individuals have no choice in their 
+careers or in where they live; by default, people inherit the 
+careers of their parents and must remain in the districts where they were born.  Anyone who wishes 
 to move to another region or to change careers can apply to the government planning commissions. 
 If someone else wants to make the opposite swap, then a request might be granted right away.  But 
 more often, the planning commission will file away the request and only consider it if some year's 
@@ -55,5 +57,5 @@ that at nearly everyone in Facci is essentially a serf.
 
 
 Inspirations: the late Roman economic system established by Diocletian and Constantine, Imperial 
-Russia in the late 19th century
+Russia in the 19th century
 

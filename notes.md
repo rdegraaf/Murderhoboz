@@ -4,6 +4,11 @@ They are vivaporous.  Young are born after eleven months of gestation and, for t
 
 -----------
 
+Rename "dryants" to something derived from Myrrha or Adonis?  Or maybe use such names for places associated with dryants?
+
+Creatures based on classical Chinese story of Xuanxang and the Monkey King?
+https://thehistoryofchina.wordpress.com/2016/02/21/90-special-monkey-business/
+
 
 City of Innsmouthe, primarily populated by undine.
 
@@ -61,4 +66,6 @@ One-handed crossbows: very weak draw strength due to being difficult to re-arm. 
 
 Theatrical weapons: Proponents of unusual weapons such as double-swords and blast-staves claim that they make look their wielders look dangerous.  Detractors claim that that's only true in the psychiatric sense.  People who've tried to use them often claim that they're more dangerous to their wielders than to the enemy.  However, generations of warlords and tyrants have sworn by them.  While these weapons confer a penalty to hit (even with an appropriate exotic weapon proficiency) and have an expanded fumble range, they provide a bonus to intimidation, which is more useful to most warlords than hit bonus anyway.  Theatrical weapons are always masterwork.
 **Combine this with extremely large weapons, which berserkers can wield with little penalty?
+
+Seven-league boots
 

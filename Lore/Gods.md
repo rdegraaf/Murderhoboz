@@ -12,7 +12,7 @@ Kote is a violent psychopath (sadistic).  To him, humour is the highest good and
 the unwitting are the best form of humour.  He doesn't care who gets hurt or what gets broken so 
 long as someone finds it funny.  On the other hand, violence born from anger is blasphemy to him. 
 He will tolerate war as a means of proving a point, but often takes steps to stop conflicts that 
-devolve to fighting for its own sake.  This is often where his destructive tendencies shine most 
+devolve into fighting for its own sake.  This is often where his destructive tendencies shine most 
 strongly: this world began when he destroyed the previous one in order to end a long feud between 
 the gods.
 
@@ -64,6 +64,9 @@ a nymphomaniac.  She differs strongly with Celebratore on the use of intoxicants
 as abusing the body (though emetics and other slimming aids are tolerated, as would muscle-
 building aids if they were known).
 
+Xoreax
+
+Kosert
 
 ...
 

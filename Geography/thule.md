@@ -84,6 +84,8 @@ few undine in Thule, but the substantial dryant population often feel like secon
 as a result.
 
 
-Inspiration: Roman empire (1st-2nd centuries), northern France in the late middle ages
+TKTK: city of Wilard, arms industry
+
+Inspiration: Roman empire (principate), northern France in the late middle ages
 
 

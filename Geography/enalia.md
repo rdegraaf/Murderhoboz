@@ -1,9 +1,9 @@
-## Enalia
+﻿## Enalia
 
 Denonym: Enali
 
 On a peninsula jutting south from TKTK, separated from the other major nations by The Cradle, The 
-Bones, and The Grave, lies Enalia.  Due in part to its hostile borders, but mostly due to its 
+Bones, and The Grave, lies Enalia.  Due in part to the inhospitable territory outside its borders, but mostly due to its 
 predominant population of thanays, Enalia balances itself between life and death.  This is not to 
 say that the state is weak and liable to collapse, but rather that at any given time, roughly half 
 of Enalia's population is dead.  Or rather, undead.  Enali society values "civil necromancers" who 

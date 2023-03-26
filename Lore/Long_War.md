@@ -56,7 +56,7 @@ berserker, and while a berserk dragon is a sight to behold, subtlety is not a st
 Elvan dug deep and built high, establishing a near-impregnable network of fortifications and only 
 occasionally venturing down into the lowlands.  Thule's heavy infantry were hard to stop but 
 tended to have trouble protecting their supply lines on extended campaigns.  Thimeera ruled the 
-seas but were less effective at large-scale land combat.  The Windborne were uninterested in 
+seas but was less effective at large-scale land combat.  The Windborne were uninterested in 
 defeating Ivar but were willing to support Elvan from time to time, if only to preserve it as a 
 buffer state.  Babel collapsed and was absorbed by its neighbours.  Facci never formally allied 
 with Ivar and indeed fought against him during the Babel campaign, but also took advantage of 
