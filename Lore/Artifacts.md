@@ -30,13 +30,45 @@ all before it before vanishing back into the mists from which it game.  Valen's 
 the world: when blown, its blower will die but a force of spectres will appear to destroy all 
 enemies within sight, disappearing only at sunrise or when their task is complete.  The blower's 
 spirit will join ~~god~~ spectral army and cannot be resurrected unless ~~god~~ consents to it. 
-Once blown, the horn will vanish and re-appear somewhere else in the world.
+Once blown, the horn will vanish and reappear somewhere else in the world.
 
 The number and strength of the spectres summoned depends on the strength of the blower's bond to 
 ~~god~~.  No one since Valen is known to have ever summoned a full army.  The spectres are not 
 unstoppable: some are known to have defeated them, while others are known to have held them off 
-utill dawn.  On occasion, some unfortunate soul blows the horn without knowing what it is or the 
+until dawn.  On occasion, some unfortunate soul blows the horn without knowing what it is or the 
 consequences of doing do: that unfortunate's soul is still forfeit, while the summoned spectres, 
 if they lack any enemies to fight, will mill around until dawn, unnerving but not harming passers 
 by.
+
+
+## The Perulian Gate
+
+When the demonic horde breached the gates of Perul, Garkelap, nephew of King Lalkoret, succeeded in 
+disengaging from the slaughter at the walls and returned to the noncombatants of his family, 
+huddled in the palace at the center of town.  He kissed his children goodbye, then returned outside 
+where he stood in front of the doors with axes in hand as the demons rushed towards him.  There 
+were three streets that converged on the square outside the palace and a great demon champion 
+approached along each.  The one on the left reached him first.  Their encounter was brief and 
+ferocious: he slew the demon, but so doing cost him his right arm.  The second rushed him 
+immediately, and he slew it as well, though doing so cost him his right.
+
+The third demon paused and looked down at Garkelap as he stood, one arm hanging limply at his side 
+and the other severed above the elbow.  Then it spoke:
+
+"Yield yourself to me and I will heal your arms."
+
+Garkelap spat blood and growled back "You want my soul, demon?  Then come and take it.  I'm not 
+done yet."
+
+The demon gestured at the severed arm lying on the ground and asked "What are you going to do, 
+bleed on me?  Your arm's off!".
+
+Garkelap's reply was to roar and charge at the demon.  He slew it too, with his teeth, though doing 
+so cost him his life.
+
+Despite his death, no demon could touch his corpse.  Nor could any demon step where his blood had 
+spilled.  When the ruins of the city were re-taken the next spring, his bones still lay where he 
+had fallen, his teeth still clamped around the throat of the third demon.  His bones were later 
+incorporated into the Perulian Gate, the bulwark sealing the rift through which the demons had 
+come.  As long as they endure, no demon may cross again.
 
